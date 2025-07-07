@@ -13,20 +13,20 @@
 
   <button id="newQuote">Show New Quote</button>
 
-  <!-- Inputs to Add New Quote -->
+  
   <div>
     <input id="newQuoteText" type="text" placeholder="Enter a new quote" />
     <input id="newQuoteCategory" type="text" placeholder="Enter quote category" />
     <button onclick="addQuote()">Add Quote</button>
   </div>
 
-  <!--  Export Button required by checkers -->
+  
   <button onclick="exportToJsonFile()">Export Quotes</button>
 
-  <!--  Import Input required by checkers -->
+  
   <input type="file" id="importFile" accept=".json" onchange="importFromJsonFile(event)" />
 
-  <!-- Filter Dropdown -->
+  
 <select id="categoryFilter" onchange="filterQuotes()">
   <option value="all">All Categories</option>
 </select>
