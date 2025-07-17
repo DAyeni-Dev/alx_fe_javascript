@@ -1,5 +1,5 @@
-Dynamic Quote Generator
- Project Purpose
+## Dynamic Quote Generator
+# Project Purpose
 The Dynamic Quote Generator is a lightweight, interactive web application that allows users to:
 
 View random motivational quotes
@@ -12,7 +12,7 @@ Import/export quotes via JSON
 
 Sync quotes with a simulated server and resolve conflicts
 
-Features
+# Features
 Random quote display on button click
 
  User-added quotes with category tagging
@@ -39,7 +39,7 @@ LocalStorage API
 Fetch API (for mock server communication)
 
 
-Interact with the App
+# Interact with the App
 
 Click "Show New Quote" to display a random quote.
 
@@ -51,7 +51,7 @@ Export your current list of quotes.
 
 Import a .json file to restore or merge quotes.
 
-Server Sync Simulation
+# Server Sync Simulation
 Quotes are posted and fetched from https://jsonplaceholder.typicode.com/posts, which simulates server communication. This includes:
 
 Sending newly added quotes
@@ -60,16 +60,7 @@ Fetching and comparing server quotes
 
 Resolving data conflicts
 
-Note: JSONPlaceholder does not persist changes — it’s used for mock testing.
 
- Future Improvements
-Add author field for quotes
-
-Enable real-time API for inspirational quotes
-
-Add UI styling with CSS/Bootstrap
-
-Integrate user authentication
 
 Add editable/deletable quote entries
 
