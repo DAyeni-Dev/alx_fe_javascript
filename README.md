@@ -62,13 +62,14 @@ Resolving data conflicts
 
 
 ## Author
-Oluwadamilola Ayeni
-Aspiring Front-End Developer | QA Professional | Problem Solver
-Twitter
-Instagram
-Facebook
-LinkedIn
-GitHub
+**Oluwadamilola Ayeni**  
+Aspiring Front-End Developer | QA Professional | Problem Solver  
+[Twitter](https://x.com/OraJacob7?t=YPfW_WCnmFa4LXjMeyyHag&s=08)  
+[Instagram](https://www.instagram.com/yourfavoritearewa_yorubababe?igsh=MTd1NWM3bWxmZzhkYw==)  
+[Facebook](https://www.facebook.com/share/14pdpQh8ND/)  
+[LinkedIn](https://www.linkedin.com/in/damilola-rachael-ayeni-631b2618b)  
+[GitHub](https://github.com/DAyeni-Dev)
+
 
 
  
