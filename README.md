@@ -61,7 +61,14 @@ Fetching and comparing server quotes
 Resolving data conflicts
 
 
+## Author
+Oluwadamilola Ayeni
+Aspiring Front-End Developer | QA Professional | Problem Solver
+Twitter
+Instagram
+Facebook
+LinkedIn
+GitHub
 
-Add editable/deletable quote entries
 
  
